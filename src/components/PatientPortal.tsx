@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
+<<<<<<< HEAD
 import { toast } from "sonner";
+=======
+import { toast } from 'sonner@2.0.3';
+>>>>>>> 0598809536fc89d9adfc1f1a4cc8762b6339f77d
 import { ArrowLeft } from 'lucide-react';
 import { Button } from './ui/button';
 import { Input } from './ui/input';

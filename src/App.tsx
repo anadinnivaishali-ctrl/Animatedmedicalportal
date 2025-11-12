@@ -22,7 +22,11 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-green-50">
+<<<<<<< HEAD
       <Toaster position="top-center" richColors />
+=======
+      <Toaster position="top-center" />
+>>>>>>> 0598809536fc89d9adfc1f1a4cc8762b6339f77d
       
       {!selectedPortal && (
         <WelcomeScreen onPortalSelect={handlePortalSelect} />
