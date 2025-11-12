@@ -1,10 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
-<<<<<<< HEAD
-import { toast } from "sonner";
-=======
 import { toast } from 'sonner@2.0.3';
->>>>>>> 0598809536fc89d9adfc1f1a4cc8762b6339f77d
 import { Button } from '../ui/button';
 import { Textarea } from '../ui/textarea';
 import { Card } from '../ui/card';
